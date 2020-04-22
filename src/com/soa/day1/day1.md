@@ -24,6 +24,7 @@ public class Solution {
         return a == b;
     }
 
+    // Time: O(n), Space: O(1)
     public boolean isPalindrome(String s) {
         if (s == null || s.length() == 0) return true;
         int i = 0, j = s.length() - 1;
