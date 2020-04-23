@@ -6,4 +6,6 @@
 
 [day2 - leetcode 1](https://github.com/SOALIN228/code/blob/master/src/com/soa/day2/day2.md)
 
+[day3 - leetcode 167](https://github.com/SOALIN228/code/blob/master/src/com/soa/day3/day3.md)
+
 
